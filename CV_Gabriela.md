@@ -1,7 +1,7 @@
 # Gabriela Gil Fermín
 
 **Ingeniera de Sistemas | Data Governance | Project Lead | CDMP | Scrum Practitioner (CM-SPC) | ITIL V4**  
-📍 Miembro DAMA Capítulo Colombia  
+Miembro DAMA Capítulo Colombia  
 📞 +34 642 37 13 20  
 📧 [gabrielagilfermin@gmail.com](mailto:gabrielagilfermin@gmail.com)  
 🔗 [linkedin.com/in/gabrielagilfermin](https://www.linkedin.com/in/gabrielagilfermin)
@@ -23,7 +23,7 @@ Profesional organizada, resolutiva, con capacidad de trabajo en equipo y enfoque
 *Octubre 2024 – Actualmente*  
 - Diseño e implementación del programa de Gobierno del Dato a nivel organizacional.  
 - Definición de roles (Data Owner, Steward), procesos y lineamientos centrados en metadatos y calidad de datos.  
-- Arquitecturas AS-IS, TO-BE y Roadmap para gestión de datos maestros.  
+- Definición de Arquitecturas AS-IS, TO-BE y Roadmap para gestión de datos.  
 - Implementación con **Microsoft Purview**.
 
 ---
