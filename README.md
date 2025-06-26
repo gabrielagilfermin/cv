@@ -81,7 +81,7 @@ técnicos, empresariales, operacionales. Construcción de glosarios de negocios.
 
 ## 🎓 Formación Académica
 
-- **Especialista en Gobierno y Estrategia de Datos**  
+- **Especialista en Estrategia y Gobierno del Dato**  
   *Universidad Politécnica de Cataluña (España)* – En curso (2025 – 2026)
 
 - **Ingeniera de Sistemas**  
