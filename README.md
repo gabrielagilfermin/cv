@@ -138,5 +138,5 @@ técnicos, empresariales, operacionales. Construcción de glosarios de negocios.
 
 ## 🧾 Referencias
 
-- **Ing. Adam Carrillo** – [adamcarrillocortes@gmail.com](mailto:adamcarrillocortes@gmail.com) – +34 642 37 13 20  
+- **Ing. Adam Carrillo** – [adamcarrillocortes@gmail.com](mailto:adamcarrillocortes@gmail.com) – +34 643 71 54 94
 - **Lic. Migdalis Mago** – [migdalis.mago@gmail.com](mailto:migdalis.mago@gmail.com) – +34 604 95 26 35
