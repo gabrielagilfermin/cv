@@ -13,6 +13,7 @@ Ingeniera de Sistemas, DAMA-Certified Data Management Professional (CDMP). Exper
 diseño e implementación de estrategias de datos y programas de gobierno del dato, cuento con
 experiencia general de catorce años participando en distintos proyectos enfocados en tecnologías de la
 información.
+
 Durante los últimos 7 años me he especializado en proyectos con impacto en la gestión y el gobierno del
 dato. Actualmente me desempeño como Senior Data Governance Consultant, apoyando a organizaciones
 como del sector industrial, energético y financiero en la implementación de programas de gobierno y
