@@ -1,7 +1,7 @@
 # Gabriela Gil Fermín
 
 **Ingeniera de Sistemas | Data Governance | Project Lead | CDMP | Scrum Practitioner (CM-SPC) | ITIL V4**  
-📍 Miembro DAMA Capítulo Colombia  
+Miembro DAMA Capítulo Colombia  
 📞 +34 642 37 13 20  
 📧 [gabrielagilfermin@gmail.com](mailto:gabrielagilfermin@gmail.com)  
 🔗 [linkedin.com/in/gabrielagilfermin](https://www.linkedin.com/in/gabrielagilfermin)
