@@ -30,7 +30,7 @@ y a su vez sumar nuevos conocimientos.
 
 ### **Senior Data Governance Consultant**  
 **Berocam Consulting SL – España**  
-*Octubre 2024 – Actualmente*  
+*Noviembre 2024 – Actualmente*  
 Diseñar e implementar el programa de Gobierno del Dato a nivel organizacional. Responsable de
 estructurar modelos de gobernanza, definir roles clave (Data Owner, Steward) y establecer lineamientos
 y procesos centrados en la gestión de metadatos y calidad de datos. Implementación de marcos
